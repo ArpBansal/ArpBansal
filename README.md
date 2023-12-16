@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArpBansal
-- 👀 I’m interested in Machine learning,LLM, security in LLM
+- 👀 I’m interested in AI,LLM, security in LLM
 - 🌱 I’m currently learning AI concepts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, gmail- arpitbansal761943@gmail.com
