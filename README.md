@@ -1,4 +1,4 @@
-# **👋 Hi, I’m @ArpBansal
+# 👋 Hi, I’m @ArpBansal
 ## 👀 I’m currently delving in AI,LLM, security in LLM
 
 - 💞️ I’m looking to collaborate on ML/LLM projects, especially security ones.
