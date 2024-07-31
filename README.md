@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @ArpBansal
 ## 👀 I’m currently delving in AI,LLM, security in LLM
 
-- 💞️ I’m looking to collaborate on ML/LLM projects, especially security ones.
+- 💞️ I’m looking to collaborate on ML/LLM projects.
+- learning about building robust backends.
 - 📫 How to reach me, gmail- arpitbansal761943@gmail.com
 
 <!---
