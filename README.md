@@ -1,8 +1,10 @@
 # 👋 Hi, I’m @ArpBansal
 ## 👀 I’m currently delving in AI,LLM, security in LLM
 
-- 💞️ I’m looking to collaborate on ML/LLM projects.
-- learning about building robust backends.
+- 💞️ I’m looking to collaborate on projects requiring Artificial Intelligence (from ML to DL, LLM to VLM).
+- My work on kaggle: https://www.kaggle.com/arpit1bansal/competitions
+- learning about building Distributed Systems.
+- learning about building AI Systems.
 - 📫 How to reach me, gmail- arpitbansal761943@gmail.com
 
 <!---
